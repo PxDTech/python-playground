@@ -1,5 +1,5 @@
 def main():
-    print("Hello, Pasquale! Python in VS Code is working.")
+    print("Hello, Pasquale! Python in emacs is working.")
 
 
 if __name__ == "__main__":
